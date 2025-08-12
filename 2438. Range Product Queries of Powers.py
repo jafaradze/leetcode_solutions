@@ -1,4 +1,5 @@
 from math import prod
+from typing import List
 
 class Solution:
     def productQueries(self, n: int, queries: List[List[int]]) -> List[int]:
